@@ -1,2 +1,1 @@
-Hello I am editing the README file. Adding some more details about the project description.
-Hello my very first github repository
+Using this repository for Terraform task.
